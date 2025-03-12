@@ -1,5 +1,5 @@
 # Overview
- The Modal-Influence repository is for the double-blind-submission to INTERSPEECH 2024.
+ The Modal-Influence repository is for the double-blind-submission to ICASSP 2025.
 
  # Installation
  1. The project is developed based on [s3prl](https://github.com/s3prl/s3prl#installation) toolkit, please install it first.
