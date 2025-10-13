@@ -5,7 +5,7 @@ This repository provides the implementation of Stimulus Modality Matters: Impact
 
 📘 arXiv Preprint: https://arxiv.org/abs/2409.10762
 
-👥 Authors: Huang-Cheng Chou, Haibin Wu, and Chi-Chun Lee
+👥 Authors: Huang-Cheng Chou, Haibin Wu, Hung-yi Lee, and Chi-Chun Lee
 
 # Installation
  1. The project is developed based on [s3prl](https://github.com/s3prl/s3prl#installation) toolkit, please install it first.
