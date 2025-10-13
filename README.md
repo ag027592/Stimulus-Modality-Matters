@@ -1,7 +1,13 @@
 # Overview
- The Modal-Influence repository is for the double-blind-submission to ICASSP 2025.
+This repository provides the implementation of Stimulus Modality Matters: Impact of Perceptual Evaluations from Different Modalities on Speech Emotion Recognition System Performance, published at the 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
 
- # Installation
+📄 IEEE Xplore: https://ieeexplore.ieee.org/abstract/document/10890558
+
+📘 arXiv Preprint: https://arxiv.org/abs/2409.10762
+
+👥 Authors: Huang-Cheng Chou, Haibin Wu, and Chi-Chun Lee
+
+# Installation
  1. The project is developed based on [s3prl](https://github.com/s3prl/s3prl#installation) toolkit, please install it first.
     * Please follow the [instrution](https://s3prl.github.io/s3prl/tutorial/installation.html#editable-installation) to do editable installation
       ```
@@ -41,3 +47,17 @@ $ bash run_log_test.sh
 ## Trained WavLM Models
 * All files can be downloaded by the [link](https://drive.google.com/file/d/1mzP6wEJkh4WVHZGsaGiaCcwOT8s0D7GK/view?usp=sharing).
 * Unzip the .zip file and move the folder into the path (s3prl/s3prl/result/downstream/)
+
+# Citation
+If you find this work useful in your research, please cite:
+ ```
+@INPROCEEDINGS{Chou_2025,
+  author={Chou, Huang-Cheng and Wu, Haibin and Lee, Chi-Chun},
+  booktitle={ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Stimulus Modality Matters: Impact of Perceptual Evaluations from Different Modalities on Speech Emotion Recognition System Performance}, 
+  year={2025},
+  pages={1-5},
+  keywords={Training; Emotion recognition; Databases; System performance; Speech recognition; Signal processing; Acoustics; Speech processing; Standards; Testing; speech emotion recognition; the effects of stimulus modality; the ambiguity of emotions},
+  doi={10.1109/ICASSP49660.2025.10890558}
+}
+ ```
