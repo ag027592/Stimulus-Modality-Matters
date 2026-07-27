@@ -2,6 +2,7 @@
 
 [![Paper](https://img.shields.io/badge/ICASSP%202025-Paper-00629B?style=flat-square)](https://doi.org/10.1109/ICASSP49660.2025.10890558)
 [![arXiv](https://img.shields.io/badge/arXiv-2409.10762-B31B1B?style=flat-square)](https://arxiv.org/abs/2409.10762)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21616029.svg)](https://doi.org/10.5281/zenodo.21616029)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
 # Overview
