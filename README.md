@@ -1,5 +1,13 @@
+# Stimulus Modality Matters
+
+[![Paper](https://img.shields.io/badge/ICASSP%202025-Paper-00629B?style=flat-square)](https://doi.org/10.1109/ICASSP49660.2025.10890558)
+[![arXiv](https://img.shields.io/badge/arXiv-2409.10762-B31B1B?style=flat-square)](https://arxiv.org/abs/2409.10762)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+
 # Overview
 This repository provides the implementation of Stimulus Modality Matters: Impact of Perceptual Evaluations from Different Modalities on Speech Emotion Recognition System Performance, published at the 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
+
+Emotion databases collect perceptual ratings in different ways: IEMOCAP annotators watch video with sound, while MSP-PODCAST raters hear speech only. Since SER systems are trained on speech, which annotation stimulus actually produces the most useful labels? We compare SER systems trained on labels elicited by voice-only, face-only, and audio-visual stimuli, evaluate across all testing conditions, and introduce an all-inclusive label set that combines every modality.
 
 📄 IEEE Xplore: https://ieeexplore.ieee.org/abstract/document/10890558
 
