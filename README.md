@@ -4,6 +4,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2409.10762-B31B1B?style=flat-square)](https://arxiv.org/abs/2409.10762)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21616029.svg)](https://doi.org/10.5281/zenodo.21616029)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+[![Smoke](https://github.com/ag027592/Stimulus-Modality-Matters/actions/workflows/smoke.yml/badge.svg)](https://github.com/ag027592/Stimulus-Modality-Matters/actions/workflows/smoke.yml)
 
 # Overview
 This repository provides the implementation of Stimulus Modality Matters: Impact of Perceptual Evaluations from Different Modalities on Speech Emotion Recognition System Performance, published at the 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
