@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the following paper."
+title: "Stimulus Modality Matters: Impact of Perceptual Evaluations from Different Modalities on Speech Emotion Recognition System Performance"
+repository-code: "https://github.com/EMOsuperb/Stimulus-Modality-Matters"
+license: MIT
+authors:
+  - family-names: Chou
+    given-names: Huang-Cheng
+  - family-names: Wu
+    given-names: Haibin
+  - family-names: Lee
+    given-names: Chi-Chun
+preferred-citation:
+  type: conference-paper
+  title: "Stimulus Modality Matters: Impact of Perceptual Evaluations from Different Modalities on Speech Emotion Recognition System Performance"
+  collection-title: "ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+  year: 2025
+  start: 1
+  end: 5
+  doi: "10.1109/ICASSP49660.2025.10890558"
+  authors:
+    - family-names: Chou
+      given-names: Huang-Cheng
+    - family-names: Wu
+      given-names: Haibin
+    - family-names: Lee
+      given-names: Chi-Chun
